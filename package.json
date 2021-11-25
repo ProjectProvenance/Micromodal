@@ -32,11 +32,6 @@
     "url": "https://github.com/ghosh/micromodal/issues"
   },
   "homepage": "https://github.com/ghosh/micromodal#readme",
-  "dependencies": {
-    "concurrently": "^6.0.2",
-    "cypress": "9.0.0",
-    "eslint": "8.2.0"
-  },
   "engines": {
     "node": ">=10"
   }
